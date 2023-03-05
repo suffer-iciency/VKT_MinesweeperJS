@@ -72,8 +72,8 @@ export const Direction =
 export const DifficultySettings =
     {
         default: {
-            width: 10,
-            height: 10,
+            width: 16,
+            height: 16,
             mineCount: 40
         },
         beginner:
